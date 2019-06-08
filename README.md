@@ -30,4 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## 2. 当构建完成时，把docs/index.html 复制为 docs/404.html
 ## 3. 提交整个docs文件夹到github上
 ## 4. 在 GitHub 的项目页中，把该项目配置为从 docs 目录下发布。
-## 5. 前往https://wenchaoweng.github.io/my-app/查看部署好的页面。
+## 5. 前往 https://wenchaoweng.github.io/my-app/ 查看部署好的页面。
